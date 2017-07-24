@@ -28,7 +28,7 @@
     "cz-conventional-changelog": "^2.0.0",
     "istanbul": "^0.4.5",
     "mocha": "^3.2.0",
-    "semver": "^5.3.0",
+    "semver": "^5.4.1",
     "shelljs": "^0.7.6",
     "sinon-es6": "0.0.3",
     "standard": "^8.6.0",
